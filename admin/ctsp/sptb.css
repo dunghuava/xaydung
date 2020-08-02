@@ -1,0 +1,89 @@
+
+
+/* Float */
+.fl{float:left;}.fr{float:right;}
+
+/* Margin */
+.mt2{/* margin-top:2 */ margin-top:2px;}.mt5{/* margin-top:5 */ margin-top:5px;}.mt10{ margin-top:10px;}
+.mt3{/* margin-top:3 */ margin-top:3px;}.mt4{/* margin-top:4 */ margin-top:4px;}.mt20{ margin-top:20px;}
+
+/* Padding */
+.pl5{/*padding-left:5*/padding-left:1px;}.pr5{/*padding-right:5*/padding-right:5px;}.pt5{/*padding-top:5*/padding-top:5px;}
+.pl20{/*padding-left:120*/padding-left:20px;}
+.pl10{/*padding-left:10*/padding-left:10px;}.pr10{/*padding-right:10*/padding-right:10px;}
+.pt10{/*padding-top:10*/padding-top:10px;}.pt15{/*padding-top:15*/padding-top:15px;}
+.pb10{/*padding-bottom:10*/padding-bottom:10px;}
+.pb5{/*padding-bottom:5*/padding-bottom:5px;}
+.pl11{/*padding-left:11*/padding-left:11px;}
+
+/* Font size */
+.f1{font-size:11px;}.f2{font-size:12px;}.f3{font-size:13px;}.f4{font-size:14px;}.fu{text-transform:uppercase;}
+
+/* Color style */
+.c1{/*dark*/color:#1e1e1e;}.c2{/*xam*/color:#8a8a8a;}.c3{/*white*/color:#ffffff;}
+
+
+
+
+/*************************************************************************************************************** Pad cat */
+
+.bar{
+	background:url(../img/frontend/ta.gif) repeat-x;
+	height:30px; line-height:30px;
+}
+.shadow{
+
+}
+
+/*************************************************************************************************************** Product */
+.product-box{
+	width: 80px;
+	height: 100px;
+	border: 1px solid #ccc;
+}
+.product-box .top{
+
+	width:173px;height:3px;
+}
+.product-box .bottom{
+
+	width:173px;height:7px;
+
+}
+.product-box .hand{
+	background:url(../img/frontend/pbf.gif) repeat-x;
+	height:26px;
+}
+.product-box .title{
+	height:30px;
+	line-height:30px;
+	overflow:hidden;
+
+}
+.product-box .title a{
+
+	text-decoration:none;
+	color:#00F;
+	font-size:14px;
+	font-weight:300;
+}
+.product-box .title a:hover{
+
+	text-decoration:none;
+	color:red;
+	font-size:14px;
+	font-weight:300;
+}
+.img-border{
+	border:1px solid #333333;
+	background-color:#fff;
+}
+.scroll-box{
+	height:1450px;
+	overflow:hidden;
+}
+/*************************************************************************************************************** Button */
+
+/*************************************************************************************************************** Page */
+
+/*************************************************************************************************************** Add steditor */
